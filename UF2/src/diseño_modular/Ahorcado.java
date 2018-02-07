@@ -3,7 +3,7 @@ package diseño_modular;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Ahorcado {
+public class Ahorcado {//Lol, otro comentario donde tengo que explicar cosas
 
 	public static int MAX=4;
 	public static Scanner reader = new Scanner(System.in);
@@ -17,7 +17,7 @@ public class Ahorcado {
 			fin=Fin(sefini);
 		}
 	}
-
+//Este lo pongo aqui porque quiero tt
 	private static boolean Jugar(char fin) {
 		// TODO Auto-generated method stub
 		String [] words = {"pantalla","teclado","laberinto","autista","deprimido","soledad","melancolia","transtorno","ludopata","sumiso","desesperado","tablero","laringitis","fuego",""};
