@@ -3,7 +3,7 @@ package diseño_modular;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Ahorcado {//Deberia explicar esto pero me da palo
+public class Ahorcado {
 
 	public static int MAX=4;
 	public static Scanner reader = new Scanner(System.in);
